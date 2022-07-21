@@ -1,0 +1,8 @@
+{
+  "name": "devanime/cms-page-order",
+  "description": "Custom post type menu sort ordering, used accordingly on all websites.",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
